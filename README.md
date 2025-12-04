@@ -15,9 +15,11 @@ Acesse a pasta do jogo “fantasmagoria” e execute o arquivo “Game.exe”.
 
 Observação:
 Para deixar o jogo em tela cheia, ao abri-lo, aperte “F1”, marque a caixa que diz
-“Launch in Full Screen” e clique em “Ok”. Após isso feche o jogo, e abri-lo ele
+“Launch in Full Screen” e clique em “Ok”. Após isso feche o jogo, e ao abri-lo ele
 estará em tela cheia.
 
 Seguindo esses passos o jogo rodará sem problemas.
 
-Tenha um bom jogo. Se quiser, deixe seu feedback!
+Tenha um bom jogo!
+
+E em casos de bug ou sugestões, por favor envie um e-mail para fantasmagoria@proton.me
