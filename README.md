@@ -21,5 +21,3 @@ estará em tela cheia.
 Seguindo esses passos o jogo rodará sem problemas.
 
 Tenha um bom jogo!
-
-E em casos de bug ou sugestões, por favor envie um e-mail para fantasmagoria@proton.me
